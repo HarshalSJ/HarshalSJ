@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshalSJ
 - 👀 I’m interested in .
-- 🌱 I’m currently learning Webdevelopment
+- 🌱 I’m currently learning Webdevelopment , Devops..!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
